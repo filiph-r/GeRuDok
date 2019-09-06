@@ -1,5 +1,6 @@
 # GeRuDok
-Generic Document Handler
+Generic Document Handler<br><br>
+![alt text](https://raw.githubusercontent.com/filiph-r/GeRuDok/master/img/1.PNG)<br><br>
 
 # Download
 Desktop .jar file -> [here](https://github.com/filiph-r/GeRuDok/raw/master/executable/gerudok.jar)<br><br>
